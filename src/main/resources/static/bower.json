@@ -1,0 +1,25 @@
+{
+  "name": "restfull-app",
+  "authors": [
+    "Tony Medrano <tony.medrano@mrm-mccann.com>"
+  ],
+  "description": "my first spring-angular project",
+  "main": "app.js",
+  "keywords": [
+    "spring",
+    "angular",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
